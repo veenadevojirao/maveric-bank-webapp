@@ -1,0 +1,7 @@
+.card {
+    width: 50%;
+    margin: auto;
+}
+.card .card-body .form-group label{
+    text-align: left;
+}
